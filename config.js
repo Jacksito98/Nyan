@@ -105,7 +105,7 @@ global.author = `𝘑\n𝘈\n𝘊\n𝘒\n9\n8\n𝘟\n\n🐢`
 
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 //• ↳ ◜𝑴𝑺𝑮 𝑫𝑬 𝑬𝑺𝑷𝑬𝑹𝑨◞ • 🈸
-global.wait = '*⏳Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ... ฅ^•ﻌ•^ฅ⏳*'
+global.wait = '*⏳Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ..*'
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 
@@ -129,9 +129,9 @@ global.ftextjpg = fs.readFileSync('./storage/image/ftextjpg.jpg')
 
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.linkgc = 'https://chat.whatsapp.com
-global.nycuser = 'https://github.com
-global.script = 'https://github.com
+global.linkgc = 'https://chat.whatsapp.com'
+global.nycuser = 'https://github.com'
+global.script = 'https://github.com'
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 
